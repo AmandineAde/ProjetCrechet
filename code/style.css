@@ -49,13 +49,30 @@ table {
 }
 /*FIN Reset CSS*/
 /*Header*/
-.bleuhead{
-    color:#1AC8EE;
+
+.btnlog{
+	color:white;
+	border-radius: 50px;
 }
+
+.bleuhead{
+    background-color:#1AC8EE;
+}
+
+.grisbtn{
+	background-color:#404E4D;
+}
+
+.vertbody{
+	background-color: #E4F5EE;
+}
+
+
+
 .logo{
     min-width:32px;
-    max-width:150px;
+    max-width:120px;
     min-height:32px;
-    max-height:150px;
+    max-height:120px;
 }
 /*Fin header*/
